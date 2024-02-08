@@ -14,7 +14,7 @@ const messages = [
   "I'm gonna cry...",
   "STOOOOP NOOWWWWW!!!"
 ];
-const MAX_TEXTS = messages.length;
+const MAX_TEXTS = messages.length - 1;
 
 let play = true;
 let noCount = 0;
